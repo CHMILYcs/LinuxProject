@@ -10,6 +10,7 @@ import sys
 import pymysql #数据库连接 - PyMySQL 驱动
 
 
+os.system('./Hello.sh')
 
 # 打开数据库连接
 
